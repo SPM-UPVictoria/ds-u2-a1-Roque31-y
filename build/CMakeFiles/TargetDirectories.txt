@@ -1,0 +1,3 @@
+/home/rocke/Documentos/drSaid/ds-u2-a1-Roque31-y/build/CMakeFiles/transformaciones.dir
+/home/rocke/Documentos/drSaid/ds-u2-a1-Roque31-y/build/CMakeFiles/edit_cache.dir
+/home/rocke/Documentos/drSaid/ds-u2-a1-Roque31-y/build/CMakeFiles/rebuild_cache.dir
